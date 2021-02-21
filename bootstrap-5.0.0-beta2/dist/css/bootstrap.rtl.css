@@ -207,11 +207,11 @@ sup {
 }
 
 a {
-  color: #fec810;
+  color: #fff;
   text-decoration: underline;
 }
 a:hover {
-  color: #cba00d;
+  color: #fec810;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -3348,11 +3348,11 @@ textarea.form-control-lg {
 
 .btn-link {
   font-weight: 400;
-  color: #fec810;
+  color: #fff;
   text-decoration: underline;
 }
 .btn-link:hover {
-  color: #cba00d;
+  color: #fec810;
 }
 .btn-link:disabled, .btn-link.disabled {
   color: #6c757d;
@@ -4504,7 +4504,7 @@ textarea.form-control-lg {
 .page-link {
   position: relative;
   display: block;
-  color: #fec810;
+  color: #fff;
   text-decoration: none;
   background-color: #fff;
   border: 1px solid #dee2e6;
@@ -4517,13 +4517,13 @@ textarea.form-control-lg {
 }
 .page-link:hover {
   z-index: 2;
-  color: #cba00d;
+  color: #fec810;
   background-color: #e9ecef;
   border-color: #dee2e6;
 }
 .page-link:focus {
   z-index: 3;
-  color: #cba00d;
+  color: #fec810;
   background-color: #e9ecef;
   outline: 0;
   box-shadow: 0 0 0 0.25rem rgba(254, 200, 16, 0.25);
