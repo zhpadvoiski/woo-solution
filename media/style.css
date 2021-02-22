@@ -65,4 +65,9 @@
   .testimonial i{
       font-size: 2em;
   }
+  .contact-us{
+      background: #222;
+      background-image: url(./map-image.png);
+      background-position: center;
+  }
 
