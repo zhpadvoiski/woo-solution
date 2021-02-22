@@ -11,3 +11,14 @@
       background-position: center;
       height: 700px;
   }
+
+  .icon{
+      background: #fec810;
+      border-radius: 50%;
+  }
+
+  .icon i{
+      font-size: 4em; 
+      /* width: 40px;
+     height: 40px; */
+  }
